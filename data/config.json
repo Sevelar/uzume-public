@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "prefix": "u!",
+	"botname": "Uzume",
+    "owner": "",
+    "color": "0xf4a142",
+    "mongo_uri": "mongodb://localhost:27017/sev"
+}

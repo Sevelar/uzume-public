@@ -1,0 +1,22 @@
+{
+  "name": "gpu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "discord-auditlog": "^1.7.1",
+    "discord.js": "^11.5.1",
+    "mongoose": "^5.5.15",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "pm2": "^3.5.1",
+    "snoostorm": "^1.0.2",
+    "snoowrap": "^1.17.0"
+  }
+}
